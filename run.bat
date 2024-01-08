@@ -1,0 +1,1 @@
+java -cp target\classes org.dhiawebdev.app.MyApp 4 5

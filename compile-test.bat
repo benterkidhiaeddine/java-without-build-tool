@@ -1,0 +1,1 @@
+javac -d target\classes -cp ".\target\classes;lib\hamcrest-core-1.3.jar;lib\junit-4.13.2.jar" src\test\java\org\dhiawebdev\service\ServiceTest.java
